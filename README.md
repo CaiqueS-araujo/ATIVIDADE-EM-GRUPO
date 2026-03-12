@@ -15,9 +15,10 @@ Caíque - Q19, Q20, Q21
 Questões 13,14,15 faltando.
 
 
-## Instruções
+### Instruções
 Descrição: Responda as questões abaixo utilizando a linguagem Portugol. Escreva os algoritmos completos, incluindo declaração de variáveis, entrada e saída de dados, e estruturação correta do código.
 
+### Enunciados
 
 **Questão 1 - Exibir os divisores de um número positivo**
 
