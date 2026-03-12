@@ -12,7 +12,7 @@ Davi - Q16, Q17, Q18
 
 Caíque - Q19, Q20, Q21
 
-Questões 13,14,15 faltando.
+Questões 14,15 faltando.
 
 
 ### Instruções
