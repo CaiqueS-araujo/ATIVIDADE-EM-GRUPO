@@ -1,11 +1,13 @@
 Trabalho em Grupo de Portugol.
 
-Mariana - Q1, Q2, Q3
-Thiago Sinesio - Q4, Q5, Q6
-Flora - Q7, Q8, Q9
-Vitor Marcelino - Q10, Q11, Q12
-Davi - Q16, Q17, Q18
-Caíque - Q19, Q20, Q21
+#Mariana - Q1, Q2, Q3
+#Thiago Sinesio - Q4, Q5, Q6
+#Flora - Q7, Q8, Q9
+#Vitor Marcelino - Q10, Q11, Q12
+#Davi - Q16, Q17, Q18
+#Caíque - Q19, Q20, Q21
+
+#Questões 13,14,15 faltando.
 
 
 Instruções
