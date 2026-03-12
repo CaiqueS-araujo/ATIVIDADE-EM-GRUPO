@@ -1,6 +1,6 @@
 ## Trabalho em Grupo de Portugol.
 
-Mariana - Q1, Q2, Q3
+Mariana - Q1, Q2, Q3, Q13
 
 Thiago Sinesio - Q4, Q5, Q6
 
