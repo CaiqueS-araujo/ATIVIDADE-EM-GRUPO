@@ -1,118 +1,82 @@
-## Trabalho em Grupo de Portugol.
+# 🚀 Trabalho de Lógica de Programação com Portugol
 
-Mariana - Q1, Q2, Q3, Q13
+Este repositório contém a resolução de uma lista de exercícios de lógica de programação desenvolvida em **Portugol**. O projeto faz parte das atividades práticas da **Residência em TIC**, focando em fundamentos de algoritmos, estruturas de dados e modularização.
 
-Thiago Sinesio - Q4, Q5, Q6, Q15
+---
 
-Flora - Q7, Q8, Q9
-
-Vitor Marcelino - Q10, Q11, Q12
-
-Davi - Q14, Q16, Q17, Q18
-
-Caíque - Q19, Q20, Q21
+## 👥 Grupo
 
 
+| Colaborador | Questões | Perfil GitHub |
+| :--- | :--- | :--- |
+| **Mariana Alves de Oliveira** | Q1, Q2, Q3, Q13 | [GitHub](https://github.com/marianaoliveira-web) |
+| **Thiago Sinesio** | Q4, Q5, Q6, Q15 | [GitHub](https://github.com/thiago-sinesio) |
+| **Flora Martins** | Q7, Q8, Q9 | [GitHub](https://github.com/nixyei) |
+| **Vitor Marcelino** | Q10, Q11, Q12 | [GitHub](https://github.com/sznsvitor) |
+| **Davi de Sá Portugal** | Q14, Q16, Q17, Q18 | [GitHub](https://github.com/daviportugall) |
+| **Caique Simões de Araújo** | Q19, Q20, Q21 | [GitHub](https://github.com/CaiqueS-araujo) |
 
-### Instruções
-Descrição: Responda as questões abaixo utilizando a linguagem Portugol. Escreva os algoritmos completos, incluindo declaração de variáveis, entrada e saída de dados, e estruturação correta do código.
+---
 
-### Enunciados
+## 🛠️ Tecnologias Utilizadas
 
-**Questão 1 - Exibir os divisores de um número positivo**
+* **Linguagem:** Portugol
+* **Ambiente:** [Portugol Studio](http://univali.br/portugolstudio)
+* **Versionamento:** Git & GitHub
 
-Descrição: Crie um programa que receba um número inteiro positivo e exiba todos os seus divisores. Não permita a digitação de números negativos e solicite a digitação de um número positivo.
+---
 
-**Questão 2 - Contar vogais em uma frase**
+## 📖 Enunciados
 
-Descrição: Desenvolva um algoritmo que leia uma frase e conte quantas vogais ela possui. Considere usar bibliotecas.
+Abaixo, você encontra a descrição de cada questão implementada neste repositório:
 
-**Questão 3 - Separar números pares e ímpares de um vetor**
+<details>
+<summary><b>🔹 Estruturas Condicionais e Repetição (Q1, Q8, Q19, Q20)</b></summary>
 
-Descrição: Crie um programa que leia 10 números inteiros e armazene em um vetor. Depois, separe em dois vetores, um de impares e outro de pares, depois exiba os números ímpares e os pares separadamente.
+* **Q1 - Divisores:** Exibe divisores de um número positivo.
+* **Q8 - Números Primos:** Verifica se um número informado é primo.
+* **Q19 - Contador de Positivos:** Lê números até encontrar um negativo e exibe a contagem.
+* **Q20 - Sistema de Login:** Simula acesso com bloqueio após 3 tentativas erradas.
+</details>
 
-**Questão 4 - Função de potenciação sem biblioteca**
+<details>
+<summary><b>🔹 Vetores e Cadeias de Texto (Q2, Q3, Q7, Q15, Q16)</b></summary>
 
-Descrição: Escreva uma função chamada potencia() que recebe dois números inteiros, base e expoente, e retorna o valor da potenciação sem usar a função pronta de potenciação ou biblioteca.
+* **Q2 - Contador de Vogais:** Conta vogais em uma frase usando bibliotecas de texto.
+* **Q3 - Par ou Ímpar:** Separa 10 números em dois vetores distintos.
+* **Q7 - Palíndromo:** Verifica se uma cadeia de caracteres é idêntica de trás para frente.
+* **Q15 - Soma de Vetores:** Gera um terceiro vetor a partir da soma de outros dois.
+* **Q16 - Negativos no Vetor:** Função que identifica a quantidade de números negativos.
+</details>
 
-**Questão 5 - Ordenação de um vetor sem biblioteca**
+<details>
+<summary><b>🔹 Matrizes (Q6, Q13, Q18, Q21)</b></summary>
 
-Descrição: Crie um algoritmo que leia um vetor de 10 posições e depois ordene seus valores em ordem crescente sem usar funções prontas ou bibliotecas.
+* **Q6 - Matriz Identidade:** Valida se uma matriz 3x3 é uma identidade.
+* **Q13 - Maior e Menor:** Encontra os valores extremos em uma matriz 4x4.
+* **Q18 - Diagonal Secundária:** Calcula a soma dos elementos da diagonal secundária (4x4).
+* **Q21 - Maior Soma de Linha:** Identifica qual linha de uma matriz 5x5 possui a maior soma.
+</details>
 
-**Questão 6 - Verificar se uma matriz 3x3 é identidade**
+<details>
+<summary><b>🔹 Funções e Recursividade (Q4, Q5, Q10, Q12, Q14)</b></summary>
 
-Descrição: Faça um programa que leia uma matriz 3x3 e verifique se ela é uma matriz identidade. A matriz identidade é uma matriz quadrada onde os elementos da diagonal principal são iguais a 1 e os demais são iguais a 0.
+* **Q4 - Potenciação:** Função manual de potência (sem bibliotecas prontas).
+* **Q5 - Ordenação (Bubble Sort):** Algoritmo de ordenação crescente manual.
+* **Q10 - Inversão de Cadeia:** Função **recursiva** para inverter textos.
+* **Q12 - Fatorial:** Cálculo de fatorial utilizando **recursão**.
+* **Q14 - Triângulo Numérico:** Gera uma pirâmide de altura N.
+</details>
 
-**Questão 7 - Verificar se um número é palíndromo**
+---
 
-Descrição: Crie um programa que leia uma cadeia e determine se ela é um palíndromo (ou seja, se ela pode ser lida da mesma forma de trás para frente).
+## 🚀 Como executar
 
-**Questão 8 - Verificar se um número é primo**
+1.  Baixe e instale o **Portugol Studio**.
+2.  Clone este repositório: 
+    ```bash
+    git clone [https://github.com/](https://github.com/)[seu-usuario]/[seu-repositorio].git
+    ```
+3.  Abra o Portugol Studio e importe os arquivos `.por`.
+4.  Pressione `F8` para executar os algoritmos.
 
-Descrição: Escreva um programa que solicite ao usuário um número e informe se ele é primo ou não.
-
-**Questão 9 - Sequência de Fibonacci até N termos**
-
-Descrição: Crie um programa que gere os primeiros N termos da sequência de Fibonacci, onde N é informado pelo usuário.
-
-**Questão 10 - Inverter uma cadeia recursivamente**
-
-Descrição: Escreva uma função recursiva que inverta uma cadeia. 
-Use a biblioteca Texto para contar e pegar os caracteres.
-
-**Questão 11 - Média dos números pares e ímpares de um vetor**
-
-Descrição: Desenvolva um algoritmo que receba um vetor de 10 números e retorne a média dos números pares e a média dos números ímpares separadamente.
-
-**Questão 12 - Cálculo do fatorial usando recursão**
-
-Descrição: Faça um programa que leia um número inteiro e calcule o fatorial desse número utilizando uma função recursiva.
-
-**Questão 13 - Encontrar o maior e o menor valor de uma matriz 4x4**
-
-Descrição: Crie um programa que leia uma matriz 4x4 e encontre o maior e o menor valor dessa matriz.
-
-**Questão 14 - Triangulo Retângulo de Altura N**
-
-Descrição: Desenvolva um algoritmo que solicite um valor inteiro N 
-e imprima uma pirâmide numérica de altura N.
-
-**Questão 15 - Soma de Dois Vetores**
-
-Descrição: Crie um programa que leia dois vetores de 5 posições e 
-gere um terceiro vetor contendo a soma dos valores nas respectivas 
-posições.
-
-**Questão 16 - Contar Números Negativos em um Vetor**
-
-Descrição: Escreva uma função que receba um vetor de 10 números 
-e retorne quantos são negativos.
-
-**Questão 17 - Média de Altura de Homens e Mulheres**
-
-Descrição: Faça um programa que leia a altura e o sexo de 5 pessoas 
-e calcule a média da altura das mulheres e dos homens 
-separadamente. O programa deve encerrar quando o usuário digitar 
-uma altura negativa.
-
-**Questão 18 - Soma da Diagonal Secundária de uma Matriz 4x4**
-
-Descrição: Escreva um programa que calcule e exiba a soma dos 
-elementos da diagonal secundária de uma matriz 4x4.
-
-**Questão 19 - Contar Números Positivos Até Entrada Negativa**
-
-Descrição: Desenvolva um algoritmo que leia um conjunto de 
-números inteiros e pare a leitura quando um número negativo for 
-digitado. Ao final, exiba quantos números positivos foram lidos.
-
-**Questão 20 - Sistema de Login com Bloqueio Após 3 Tentativas**
-
-Descrição: Crie um programa que simule um sistema de login. O 
-programa deve pedir ao usuário um nome de login e uma senha. Se 
-ele errar 3 vezes, o acesso deve ser bloqueado.
-
-**Questão 21 - Encontrar a Linha com Maior Soma em uma Matriz 5x5**
-
-Descrição: Desenvolva um algoritmo que leia uma matriz 5x5 e 
-encontre a linha cuja soma dos elementos seja a maior entre todas.
