@@ -2,7 +2,7 @@
 
 Mariana - Q1, Q2, Q3, Q13
 
-Thiago Sinesio - Q4, Q5, Q6
+Thiago Sinesio - Q4, Q5, Q6, Q15
 
 Flora - Q7, Q8, Q9
 
@@ -12,7 +12,7 @@ Davi - Q16, Q17, Q18
 
 Caíque - Q19, Q20, Q21
 
-Questões 14,15 faltando.
+Questões 14 faltando.
 
 
 ### Instruções
