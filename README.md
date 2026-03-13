@@ -8,11 +8,10 @@ Flora - Q7, Q8, Q9
 
 Vitor Marcelino - Q10, Q11, Q12
 
-Davi - Q16, Q17, Q18
+Davi - Q14, Q16, Q17, Q18
 
 Caíque - Q19, Q20, Q21
 
-Questões 14 faltando.
 
 
 ### Instruções
