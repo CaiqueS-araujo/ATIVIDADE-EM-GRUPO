@@ -86,7 +86,7 @@ Abaixo, você encontra a descrição de cada questão implementada neste reposit
 1.  Baixe e instale o **Portugol Studio**.
 2.  Clone este repositório: 
     ```bash
-    git clone [https://github.com/](https://github.com/)[seu-usuario]/[seu-repositorio].git
+    git clone https://github.com/CaiqueS-araujo/ATIVIDADE-EM-GRUPO.git
     ```
 3.  Abra o Portugol Studio e importe os arquivos `.por`.
 4.  Pressione `F8` para executar os algoritmos.
