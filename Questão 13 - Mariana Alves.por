@@ -15,7 +15,7 @@ programa {
         escreva("Digite um valor para a posição [", linha, "][", coluna, "]: ")
         leia(matriz[linha][coluna])
       }
-    }
+     }
     maior = matriz[0][0]
     menor = matriz[0][0]
 
