@@ -34,5 +34,6 @@ limpa()
 
 		  escreva("\nMedia dos pares é: ", mediaPares)
 		  escreva("\nMedia dos impares é: ", mediaImpares)
+	
 	}
 }
