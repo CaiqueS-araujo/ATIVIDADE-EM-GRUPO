@@ -9,6 +9,7 @@ funcao inteiro fatorial(inteiro n){
           retorne n * fatorial(n - 1) //retorna o fatorial do numero
 }
 }
+
 funcao inicio() {
 inteiro numero
 
