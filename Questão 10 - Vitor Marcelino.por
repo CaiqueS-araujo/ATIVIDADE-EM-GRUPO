@@ -26,7 +26,7 @@ cadeia palavraInvertida
 limpa()
 palavraInvertida = recursiva(palavra) //chamada da função recursiva armazenada na variável palavraInvertida
 
-    escreva ("\nA palavra invertida é: ",palavraInvertida)
-
+    escreva ("\nA palavra",palavra," invertida é: ",palavraInvertida)
+  
   }
 }
