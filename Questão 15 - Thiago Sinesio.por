@@ -19,12 +19,12 @@ programa {
     para (i = 0; i < 5; i++) {
       vetorSoma[i] = vetor1[i] + vetor2[i]
     }
-    
+
     limpa()
     escreva("\nResultado da Soma (Vetor 3) :\n")
     para (i = 0; i < 5; i++) {
       escreva(vetorSoma[i], " ")
     }
-    escreva("\n")
+    escreva("\n ")
   }
 }
