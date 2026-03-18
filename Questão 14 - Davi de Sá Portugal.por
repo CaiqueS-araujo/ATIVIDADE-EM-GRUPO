@@ -13,7 +13,6 @@ programa
 			{
 				escreva(coluna, " ") 
 			}
-			
 			escreva("\n")
 		}
 	}

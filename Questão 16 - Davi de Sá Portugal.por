@@ -14,7 +14,6 @@ programa
 		
 		retorne contador
 	}
-
 	funcao inicio()
 	{
 		real meusNumeros[10]

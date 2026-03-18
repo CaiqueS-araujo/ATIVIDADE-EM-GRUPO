@@ -23,8 +23,7 @@ programa
 			}
 			escreva("\n") 
 		}
-
-
+		
 		para(linha = 0; linha < 4; linha++)
 		{
 		

@@ -15,7 +15,6 @@ programa
 			{
 				pare 
 			}
-			
 			escreva("Digite o sexo da ", cont + 1, "ª pessoa (M/F): ")
 			leia(sexo)
 			
