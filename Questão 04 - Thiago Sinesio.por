@@ -16,7 +16,6 @@ programa {
   }
 
   funcao inicio() {
-
     inteiro base, expoente
 
     escreva("Digite a base: ")

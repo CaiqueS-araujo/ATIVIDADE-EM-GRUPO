@@ -27,7 +27,6 @@ programa {
         }
       }
     }
-
     escreva("\nResultado:\n")
     se (ehIdentidade == verdadeiro) {
       escreva("A matriz digitada é uma matriz identidade!\n")

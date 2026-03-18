@@ -24,7 +24,6 @@ programa {
         }
       }
     }
-
     //saída
     escreva("\nVetor Ordenado:\n")
     para(i = 0; i < 10; i++) {
