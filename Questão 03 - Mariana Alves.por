@@ -1,4 +1,4 @@
-programa {
+programa  {
   funcao inicio() {
     inteiro numeros[10]
     inteiro pares[10]

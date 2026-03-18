@@ -1,4 +1,4 @@
-programa {
+programa  {
   funcao inicio() {
     inteiro num
     inteiro i
