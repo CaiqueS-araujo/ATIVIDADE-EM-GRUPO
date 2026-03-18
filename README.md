@@ -2,7 +2,7 @@
 
 Este repositório contém a resolução de uma lista de exercícios de lógica de programação desenvolvida em **Portugol**. O projeto faz parte das atividades práticas da **Residência em TIC**, focando em fundamentos de algoritmos, estruturas de dados e modularização.
 
----
+--- 
 
 ## 👥 Grupo
 
