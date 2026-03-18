@@ -1,5 +1,5 @@
 programa{
-	funcao inicio(){
+	funcao inicio() {
 		cadeia login
 		cadeia senha
 		inteiro tentativas = 0

@@ -15,5 +15,5 @@ programa{
 			}
 		}
 		escreva("Quantidade de numeros positivos: ", positivos)
-	}
+}
 }

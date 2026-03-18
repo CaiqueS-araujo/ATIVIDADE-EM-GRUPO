@@ -1,5 +1,5 @@
 programa{
-	funcao inicio(){
+	funcao inicio() {
 		inteiro matriz[5][5]
 		inteiro i, j
 		inteiro soma
